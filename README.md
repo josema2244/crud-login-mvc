@@ -15,6 +15,7 @@
 - [Tecnologías](#tecnologías)
 - [Autor](#autor)
 - [Licencia](#licencia)
+- [link](#link)
 
 ## Descripción
 
@@ -66,3 +67,6 @@ Abre http://localhost:5173 e inicia sesión con el usuario `admin` y la contrase
 ## Autor
 
 José Jáuregui, estudiante de Ingeniería de Software en la Universidad de las Américas.
+
+## link
+https://github.com/josema2244/crud-login-mvc#autor 
